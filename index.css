@@ -1,0 +1,22 @@
+body {
+    font-family: "Sofia-Pro", sans-serif;
+    color: #0d1e2d;
+  }
+
+.section {
+    padding: 2rem 0 7rem;
+}
+
+.cvs-bg {
+    background-color: #cc0200;
+}
+
+.cvs-text {
+    color: #cc0200;
+}
+
+.custom-footer {
+    background-color: #cc0200;
+    color: #fff;
+    padding: 2rem 0;
+}
